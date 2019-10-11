@@ -12,9 +12,9 @@
 * http://localhost:4200/
 
 ## Angular Command General
-* Component
+* generate component
     * ng g c [component name] --spec=false --s
-* Service
+* generate service
     * ng g s [service name] --spec=false
-* Model
+* generate model
     * ng g cl [model name] --spec=false --type=model
