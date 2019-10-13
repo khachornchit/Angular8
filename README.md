@@ -11,10 +11,8 @@
 * ng serve --o
 * http://localhost:4200/
 
-## Angular Command General
-* generate component
-    * ng g c [component name] --spec=false --s
-* generate service
-    * ng g s [service name] --spec=false
-* generate model
-    * ng g cl [model name] --spec=false --type=model
+## General Angular CLI
+* ng g c [component name] --spec=false --s
+* ng g s [service name] --spec=false
+* ng g cl [model name] --spec=false --type=model
+* ng update @angular/core
