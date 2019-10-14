@@ -19,3 +19,9 @@ input.ng-valid {
 #toast-container > div {
     opacity: 1;
 }
+
+table tr:hover {
+    cursor: pointer;
+    background-color:  rgb(226, 223, 223);
+    color: whitesmoke;
+}

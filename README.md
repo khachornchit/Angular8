@@ -1,12 +1,13 @@
-# Angular 7 CRUD
+# Angular 8 CRUD Web Application
+Angular 8 CRUD Web application with Bootstrap 4.
 
 ## Technology Stack
-* Angular 7
+* Angular 8
 * Bootstrap 4
 
 ## Setup Guide
-* git clone git@github.com:Khachornchit/Angular7-CRUD.git
-* cd Angular7-CRUD
+* git clone git@github.com:Khachornchit/Angular8-CRUD.git
+* cd Angular8-CRUD
 * yarn install
 * ng serve --o
 * http://localhost:4200/
