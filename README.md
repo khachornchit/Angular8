@@ -1,5 +1,5 @@
-# Angular 8 CRUD Web Application
-Angular 8 CRUD Web application with Bootstrap 4.
+# Angular 8
+Front-End development using Angular 8 framework and Bootstrap 4 with CRUD functional.
 
 ## Technology Stack
 * Angular 8
