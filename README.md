@@ -6,8 +6,8 @@ Front-End development using Angular 8 framework and Bootstrap 4 with CRUD functi
 * Bootstrap 4
 
 ## Setup Guide
-* git clone git@github.com:Khachornchit/Angular8-CRUD.git
-* cd Angular8-CRUD
+* git clone git@github.com:khachornchit/Angular8.git
+* cd Angular8
 * yarn install
 * ng serve --o
 * http://localhost:4200/
@@ -17,3 +17,9 @@ Front-End development using Angular 8 framework and Bootstrap 4 with CRUD functi
 * ng g s [service name] --spec=false
 * ng g cl [model name] --spec=false --type=model
 * ng update @angular/core
+
+## How to uninstall and re-installation Angular CLI
+* npm uninstall -g @angular/cli npm cache clean --force
+* npm cache verify
+* npm i -g @angular/cli@8.x
+* ng version
