@@ -133,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "Angular7Crud"
+  "defaultProject": "Angular7Crud",
+  "cli": {
+    "analytics": false
+  }
 }
